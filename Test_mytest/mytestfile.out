@@ -1,0 +1,30 @@
+Reading file mytestfile.pls ....Please wait
+The input file mytestfile.pls has not been completely loaded.
+Last character read from the input file is: a 97
+Input file size: 11316
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  200
+The current size of the buffer is:  200
+The operational mode of the buffer is:   0
+The increment factor of the buffer is:  0
+The current mark of the buffer is:  200
+The value of the flags field is: FFFC
+
+Printing buffer contents:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  201
+The current size of the buffer is:  201
+The operational mode of the buffer is:   0
+The increment factor of the buffer is:  0
+The current mark of the buffer is:  201
+The value of the flags field is: FFFE
+
+Printing buffer contents:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaÿ
